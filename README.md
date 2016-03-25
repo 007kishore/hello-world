@@ -1,2 +1,1 @@
-# hello-world
-practicing the git
+This is the testing file of the branch named readme-edit.
